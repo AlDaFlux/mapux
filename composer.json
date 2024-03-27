@@ -1,6 +1,6 @@
 {
-  "name": "frvaillant/mapux",
-  "description": "Adds symfony twig function to create maps",
+  "name": "aldaflux/mapux",
+  "description": "Adds symfony twig function to create maps - forked from belaka/mapux:master forked from frvaillant/mapux.",
   "keywords": ["PHP","UX", "Symfony", "map", "leaflet"],
   "license": "MIT",
   "authors": [
